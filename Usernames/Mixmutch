@@ -1,0 +1,84 @@
+There are many items that work much better than black cleaver on ADC. Corki's spells deal magic damage other than Gatling gun, so there's no meaningful interactions between his spell rotations and bc's unique passive other than his Gatling gun and AA, which aren't very effective late game I would guess. 40AD isn't very impressive for an ADC item and movement speeds are halved for range champions. These are just hypothetical though. Have to see how it works out, but I think with be rework, Fiona might be OP again.
+i think he did it on purpose. 
+If you ask me, IMO i think the math for this is redundant. Tank items are situational depending on what champions your opponents use and what items they're buying. If they have a lot of AD DPS, get frozen heart, thornmail, omen. Getting health items(warmogs, etc) can be useful on champions that have kits that make good use of it, eg, sion, vollibear, zac. 
+
+Generally, resistance&gt;health, unless they have a lot of mixed damages(physical, magic, maxHP%, true damage), then prioritizing health might be a better choice.
+health is for surviving all kinds of damages - physical, magic, true, maxHP%. Amor yellows are definitely useful against minion aggression and autoattacks in the early game, but useless overall against the variety of damages.
+Uh. Looks like Ive been out of loop for a while. Can someone update me on what happened? Im still torrenting like mad as usual lol.
+I think the worst was season 4.
+ah now that makes sense.
+every woman in niger giving birth to septuplets every year *on average*? lol
+wait wait. how does a woman give birth to 7 babies a year? Or am i understanding this wrong?
+
+things like these are just much better documented in thailand.
+That doesn't make any sense. So there was a fire and they just continue sitting down and didn't bother to run for their lives?
+Sorry. Maybe it was the phrasing that gave me the wrong idea. Cockroaches = Asian version of shampoo. Lol
+dude chill. i was just wondering.
+ahh i see.
+that sounds somewhat racist
+&gt; Both of those statements are true in the context of the data. But the first makes men sound more agressive. The second makes women sound more passive.
+
+So you're just nitpicking my statement. I don't understand why there is a need to since both statements are correct. 
+
+&gt; From the graph, I am infering there appears to be no statistical increase between the two cases for the men.
+
+You can't infer whether or not there is a *statistical difference* just simply by looking at a graph and measuring the blocks with a ruler.
+
+[*In Study 2, deindividuation was manipulated in the laboratory to assess its effects in an aggression-eliciting situation. As predicted, men aggressed more than women in the individuated condition, but this difference was eliminated in the deindividuated condition. *](http://psp.sagepub.com/content/20/1/34.short) 
+
+This is the study that was used in the book. There's only the abstract that is available to me, but just from the abstract alone, the hypothesis would probably look something like this:
+
+--------
+independent variables(manipulated by researchers): gender(M/F), individuation(Yes/No)
+
+dependent variables(measured by researchers): aggression
+
+--------
+null hypothesis^1: There is no difference between the aggression of men and women when either individuated or deindividuated (p&lt; .05).
+
+alternate hypothesis: There is a difference between men and women when individuated or deindividuated (p &lt; .05).
+
+
+--------
+So from the start, the objective of the study was not to find out the difference between individuated and deindividuated men, and between individuated and deindividuated women. Doing that many comparisons in a single study would be a bitch to deal with when they do their statistical analyses, which might result in a lot more errors and inaccuracies. 
+
+Psychological research is a lot more complicated that most people think, mostly because of the statistical analyses alone, alongside with the ethical restrictions and individual human unpredictability. You shouldn't brush a study aside as "junk study" just because it only focuses on one comparison. I can assure you the stats didn't come from garbage. I really wish i could read the published study itself, but I cant find one available for free. Psych isn't as easy to study as people think. 
+You're not reading this correctly. I said "When *individuated*, men dropped more bombs than women." In no way have i mentioned the difference between individuated and de-individuated men. 
+
+You said:
+
+&gt; It's better to say women dropped less bombs when they were not anonymous 
+
+Women dropped less bombs than men, in other words, men dropped more bombs. I'd say it's accurate, with context or not. 
+
+Also, you're completely wrong about men displaying the same amount of aggression when they're individuated and de-individuated. The book and study mentioned nothing of that comparison. 
+&gt; It's kind of misleading to say men dropped more bombs than women, since there doesn't appear to be a significant change in behavior going from anonymous to non-anonymous in the men.
+
+Your statement doesn't make any sense. Men dropped significantly more bombs than women when individuated (p&lt; .05). That is true. We're comparing the difference between aggression of men and women when individuated.
+
+&gt; since there doesn't appear to be a significant change in behavior going from anonymous to non-anonymous in the men.
+
+ You're comparing difference between aggression of men when individuated and not.
+no man. You're looking at it the wrong way. When individuated, the men dropped more bombs than women. When de-individuated, the difference becomes **insignificant**, as stated in the graph and book. They become equally aggressive. That's it.
+Kim Jong Yew
+looks like it says fish
+Is it possible you could share the score sheet with us OP? 
+Classics are definitely teemo and cass. 
+y
+Try this fix and see how it goes.
+
+Step by step:
+
+-Press windows key + R (run)
+
+-Type "services.msc"
+
+-Under names column look for "Superfetch"
+
+-Right click "Superfetch" and click on properties
+
+-Under "General" tab, look for "Startup type:" set it from "Automatic" to "MANUAL" then click Apply then OK.
+
+-Right click "Superfetch" again and click "STOP"
+
+-Restart your PC then try league.

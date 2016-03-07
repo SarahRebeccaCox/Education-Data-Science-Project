@@ -1,0 +1,17 @@
+"","Type","Group","Score"
+"1","Benevolent","Female",0.819047619047619
+"2","Benevolent","Male",1.36938775510204
+"3","Benevolent","Other",0.466666666666667
+"4","Hostile","Female",1.11688311688312
+"5","Hostile","Male",1.71614100185529
+"6","Hostile","Other",0.272727272727273
+"7","Benevolent","Anon",1.04418604651163
+"8","Benevolent","Name",1.36
+"9","Hostile","Anon",1.36575052854123
+"10","Hostile","Name",1.65454545454545
+"11","Benevolent","Industry",1.14285714285714
+"12","Benevolent","Gamer",1.17727272727273
+"13","Hostile","Industry",1.97402597402597
+"14","Hostile","Gamer",1.43250688705234
+"15","Benevolent","",1.17397260273973
+"16","Hostile","",1.48443337484433

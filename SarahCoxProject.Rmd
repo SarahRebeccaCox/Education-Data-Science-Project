@@ -1,7 +1,7 @@
 ---
 title: "Survey Bias Among Video Gaming Redditors"
 output: html_document
----
+--- 
 
 If you've ever taken a survey like the U.S. Census Survey, you know that they can be very long and difficult to answer completely honestly. In the case of the Census survey, this may be in part because the survey is very long and you have better things to do with your day than list every single item you've purchased in the last three months. <b>However, other surveys may probe you with questions that make you uncomfortable, or questions that you may alter your answer to depending who is asking. This is called social desirability response bias, and it may or may not be an issue for researchers relying heavily on survey data.</b>
 
